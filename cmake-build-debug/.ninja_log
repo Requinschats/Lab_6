@@ -1,0 +1,21 @@
+# ninja log v5
+6	2366	1658014910581896516	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.o	b80b95d6c2cc8c68
+3	2376	1658014910593253557	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/context.c.o	1b104a3485529e
+4	2401	1658014910614357405	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/init.c.o	39cf797ba54ba155
+5	2408	1658014910615445930	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/monitor.c.o	d53c17376d35d7ba
+9	2537	1658014910753594280	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/window.c.o	8096ddd549e71959
+4	2569	1658014910786903099	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/input.c.o	b4eb0ca0f3cccb7e
+2	3154	1658014911374358295	_deps/thirdparty-glew-build/CMakeFiles/glew_s.dir/__/__/src/glew.c.o	e5a6d974516223f
+3155	3387	1658014911621738000	lib/libGLEWd.a	e34e3b37b1db0332
+11	3849	1658014912058910939	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/cocoa_init.m.o	6c15e7870bc87630
+2408	4016	1658014912233304839	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/cocoa_time.c.o	6292392ba1c5c5c8
+2537	4113	1658014912331820996	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/posix_thread.c.o	6e61c5695d07962e
+0	4370	1658014912585835795	CMakeFiles/lab06.dir/src/lab06.cpp.o	3c507885d1a99dae
+3387	4916	1658014913132868095	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.o	5c79e6d4cfa693b4
+2373	5336	1658014913545030903	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o	e6c482d7bd11d8e3
+2377	5370	1658014913578164402	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o	973d26f606062aff
+3853	5384	1658014913599851854	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.o	6561fa59002e31a1
+2569	5517	1658014913727025873	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/nsgl_context.m.o	412d18f14a305fec
+2401	5580	1658014913793506897	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/cocoa_window.m.o	e573e331a574ad3b
+5581	5701	1658014913936217000	_deps/thirdparty-glfw-build/src/libglfw3.a	a3bb376369864965
+5701	6019	1658014914243653132	lab06	bdf7883a39fcfeed

@@ -1,0 +1,19 @@
+# ninja log v5
+0	147	1658014848962160239	thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-mkdir	146bf0faf4de3cd1
+0	147	1658014848962160239	/Users/olivierfradette-roy/Desktop/Lab06_Solved/solved_code/cmake-build-debug/_deps/thirdparty-glfw-subbuild/thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-mkdir	146bf0faf4de3cd1
+148	357	1658014849172714353	thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-download	d72f342126c96290
+148	357	1658014849172714353	/Users/olivierfradette-roy/Desktop/Lab06_Solved/solved_code/cmake-build-debug/_deps/thirdparty-glfw-subbuild/thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-download	d72f342126c96290
+358	404	1658014849219528650	thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-patch	baac9bac40b87839
+358	404	1658014849219528650	/Users/olivierfradette-roy/Desktop/Lab06_Solved/solved_code/cmake-build-debug/_deps/thirdparty-glfw-subbuild/thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-patch	baac9bac40b87839
+405	448	1658014849262855653	thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-configure	a3d2338c0dcfc490
+405	448	1658014849262855653	/Users/olivierfradette-roy/Desktop/Lab06_Solved/solved_code/cmake-build-debug/_deps/thirdparty-glfw-subbuild/thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-configure	a3d2338c0dcfc490
+448	489	1658014849304644715	thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-build	249d666596367bb3
+448	489	1658014849304644715	/Users/olivierfradette-roy/Desktop/Lab06_Solved/solved_code/cmake-build-debug/_deps/thirdparty-glfw-subbuild/thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-build	249d666596367bb3
+490	531	1658014849345777513	thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-install	d116e5a59a17bcaf
+490	531	1658014849345777513	/Users/olivierfradette-roy/Desktop/Lab06_Solved/solved_code/cmake-build-debug/_deps/thirdparty-glfw-subbuild/thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-install	d116e5a59a17bcaf
+531	580	1658014849394014057	thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-test	496b85bdcb05ba31
+531	580	1658014849394014057	/Users/olivierfradette-roy/Desktop/Lab06_Solved/solved_code/cmake-build-debug/_deps/thirdparty-glfw-subbuild/thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-test	496b85bdcb05ba31
+580	650	1658014849465027875	CMakeFiles/thirdparty-glfw-populate-complete	8ec51ef5de560a15
+580	650	1658014849465027875	thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-done	8ec51ef5de560a15
+580	650	1658014849465027875	/Users/olivierfradette-roy/Desktop/Lab06_Solved/solved_code/cmake-build-debug/_deps/thirdparty-glfw-subbuild/CMakeFiles/thirdparty-glfw-populate-complete	8ec51ef5de560a15
+580	650	1658014849465027875	/Users/olivierfradette-roy/Desktop/Lab06_Solved/solved_code/cmake-build-debug/_deps/thirdparty-glfw-subbuild/thirdparty-glfw-populate-prefix/src/thirdparty-glfw-populate-stamp/thirdparty-glfw-populate-done	8ec51ef5de560a15
